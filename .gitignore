@@ -1,3 +1,6 @@
 # ignorar imagenes
 *.jpg
-Imagenes
+*.jpeg
+*.png
+*.gif
+*.svg
